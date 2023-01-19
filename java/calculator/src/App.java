@@ -13,10 +13,10 @@ public class App {
         double r;
 
         System.out.println("Elige la opcion que neceites");
-        System.out.println("1.+");
-        System.out.println("2.-");
-        System.out.println("3.*");
-        System.out.println("4./");
+        System.out.println("1.Suma");
+        System.out.println("2.Resta");
+        System.out.println("3.Multiplicacion");
+        System.out.println("4.Division");
         option = leer.nextInt();
 
         System.out.println("Ingresa el primer numero");
